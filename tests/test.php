@@ -81,9 +81,9 @@ Connection::getConnection()->exec(
  * @method PackageTest1[] findByName()
  * @method PackageTest1 findOneByName()
  * @method PackageTest1[] findByCreatedAt()
- * @method PackageTest1 findByOneCreatedAt()
+ * @method PackageTest1 findOneByCreatedAt()
  * @method PackageTest1[] findByUpdatedAt()
- * @method PackageTest1 findByOneUpdatedAt()
+ * @method PackageTest1 findOneByUpdatedAt()
  */
 class PackageTest1Table extends Table
 {
@@ -375,9 +375,9 @@ Connection::getConnection()->exec(
  * @method PackageTest2[] findByCount()
  * @method PackageTest2 findOneByCount()
  * @method PackageTest2[] findByCreatedAt()
- * @method PackageTest2 findByOneCreatedAt()
+ * @method PackageTest2 findOneByCreatedAt()
  * @method PackageTest2[] findByUpdatedAt()
- * @method PackageTest2 findByOneUpdatedAt()
+ * @method PackageTest2 findOneByUpdatedAt()
  *
  * @method PackageTest1 findOneByUserIdAndItemId()
  */
