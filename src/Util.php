@@ -1,10 +1,10 @@
 <?php
 
-namespace SimpleOrm;
+namespace ModivrOrm;
 
 /**
  * Class Util
- * @package SimpleOrm
+ * @package ModivrOrm
  */
 final class Util
 {

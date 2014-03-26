@@ -3,7 +3,8 @@
 *.DS_Store
 *.swp
 *.out
-*.idea
+*.iml
+.idea
 composer.lock
 vendor
 phpunit.xml

@@ -1,10 +1,10 @@
 <?php
 
-namespace SimpleOrm;
+namespace ModivrOrm;
 
 /**
  * Interface ConfigurationInterface
- * @package SimpleOrm
+ * @package ModivrOrm
  */
 interface ConfigurationInterface
 {

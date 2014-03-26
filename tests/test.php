@@ -1,9 +1,9 @@
 <?php
 
-use SimpleOrm\ConfigurationInterface;
-use SimpleOrm\Connection;
-use SimpleOrm\Record;
-use SimpleOrm\Table;
+use ModivrOrm\ConfigurationInterface;
+use ModivrOrm\Connection;
+use ModivrOrm\Record;
+use ModivrOrm\Table;
 
 require_once __DIR__ . '/../vendor/autoload.php';
 

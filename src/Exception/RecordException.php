@@ -1,12 +1,12 @@
 <?php
 
-namespace SimpleOrm\Exception;
+namespace ModivrOrm\Exception;
 
 use Exception;
 
 /**
  * Class Exception\RecordException
- * @package SimpleOrm
+ * @package ModivrOrm
  */
 class RecordException extends Exception
 {

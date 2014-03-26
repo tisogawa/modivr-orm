@@ -1,12 +1,12 @@
 <?php
 
-namespace SimpleOrm\Exception;
+namespace ModivrOrm\Exception;
 
 use Exception;
 
 /**
  * Class Exception\TableException
- * @package SimpleOrm
+ * @package ModivrOrm
  */
 class TableException extends Exception
 {

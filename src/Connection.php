@@ -1,15 +1,14 @@
 <?php
 
-namespace SimpleOrm;
+namespace ModivrOrm;
 
 use PDO;
-use PDOException;
 use PDOStatement;
 use RuntimeException;
 
 /**
  * Class Connection
- * @package SimpleOrm
+ * @package ModivrOrm
  */
 final class Connection
 {

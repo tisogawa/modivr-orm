@@ -1,8 +1,8 @@
 {
     "license": "MIT",
     "autoload": {
-        "psr-0": {
-            "SimpleOrm": "src"
+        "psr-4": {
+            "ModivrOrm\\": "src"
         }
     }
 }

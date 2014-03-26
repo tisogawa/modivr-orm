@@ -1,13 +1,13 @@
 <?php
 
-namespace SimpleOrm;
+namespace ModivrOrm;
 
+use ModivrOrm\Exception\RecordException;
 use PDOException;
-use SimpleOrm\Exception\RecordException;
 
 /**
  * Class Record
- * @package SimpleOrm
+ * @package ModivrOrm
  */
 abstract class Record
 {

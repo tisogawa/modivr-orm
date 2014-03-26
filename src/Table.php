@@ -1,13 +1,13 @@
 <?php
 
-namespace SimpleOrm;
+namespace ModivrOrm;
 
+use ModivrOrm\Exception\TableException;
 use PDOStatement;
-use SimpleOrm\Exception\TableException;
 
 /**
  * Class Table
- * @package SimpleOrm
+ * @package ModivrOrm
  */
 abstract class Table
 {
