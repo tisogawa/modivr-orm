@@ -1,8 +1,13 @@
 {
-    "license": "MIT",
-    "autoload": {
-        "psr-4": {
-            "ModivrOrm\\": "src"
-        }
+  "name": "tisogawa/modivr-orm",
+  "description": "Simple (thus limited) ORM, developed primarily for educational purposes.",
+  "license": "MIT",
+  "require-dev": {
+    "phpunit/phpunit": "3.7.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "ModivrOrm\\": "src"
     }
+  }
 }

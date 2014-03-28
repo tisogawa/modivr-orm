@@ -1,11 +1,9 @@
 *~
-*.lock
-*.DS_Store
 *.swp
-*.out
-*.iml
+.DS_Store
+._.DS_Store
 .idea
 composer.lock
-vendor
 phpunit.xml
-build
+vendor
+lib/exam
